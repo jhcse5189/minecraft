@@ -1,0 +1,6 @@
+name: BasementsChat   #plugin name
+main: dev.sosasosa.basements.chat.BasementsChat
+
+api-version: 1.19
+
+version: 1.0          #plugin version
