@@ -3,4 +3,10 @@ main: dev.sosasosa.basements.chat.BasementsChat
 
 api-version: 1.19
 
-version: 1.0          #plugin version
+version: 1.1          #plugin version
+
+commands:
+  zombie:
+    description: Sends a message with the number of zombie killed (test)
+  preload:
+    description: Reloads the config for the plugin
